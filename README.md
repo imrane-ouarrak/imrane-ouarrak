@@ -49,4 +49,5 @@ I’m studying **3–5 hours/day** and uploading all progress here.
 
 ## 📫 Contact
 - GitHub: https://github.com/imrane-ouarrak
-- LinkedIn: [(add link)](https://www.linkedin.com/in/imrane-ouarrak-3a2894293/)
+- LinkedIn: [(www.linkedin.com/in/imrane-ouarrak-3a2894293)]
+  
