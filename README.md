@@ -1,18 +1,18 @@
-# Hi, I'm Imrane 👋
+# Hi, I'm Imrane 
 
-🎯 Goal: Become job-ready for **Ausbildung (Fachinformatiker)** with a focus on **Full-Stack + Cybersecurity (DevSecOps path)** by 2026.
-
----
-
-## 🚀 Current Focus
-- ✅ CS + Programming fundamentals
-- 🔐 Security basics (OWASP, networking, Linux)
-- 🌐 Full-stack projects (frontend + backend)
-- 🧰 Git/GitHub portfolio building
+ Goal: Become job-ready for **Ausbildung (Fachinformatiker)** with a focus on **Full-Stack + Cybersecurity (DevSecOps path)** by 2026.
 
 ---
 
-## 🗺️ Learning Path (2026)
+##  Current Focus
+-  CS + Programming fundamentals
+-  Security basics (OWASP, networking, Linux)
+-  Full-stack projects (frontend + backend)
+-  Git/GitHub portfolio building
+
+---
+
+##  Learning Path (2026)
 I’m studying **3–5 hours/day** and uploading all progress here.
 
 ### Phase 0 — Setup (Week 1)
